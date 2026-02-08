@@ -1,4 +1,4 @@
-# Natna Legetachew – Developer Portfolio
+# Natnale Getachew – Developer Portfolio
 
 Personal portfolio website showcasing my experience, skills, and selected projects as a software developer.
 
