@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my experience, skills, and selected projects as a software developer.
 
-🔗 **Live site:** https://natnalegetachew.github.io
+🔗 **Live site:** [https://natnalegetachew.github.io](https://natyyg.github.io/portfolio/)
 
 ---
 
